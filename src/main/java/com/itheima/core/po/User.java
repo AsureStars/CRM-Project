@@ -1,6 +1,7 @@
 package com.itheima.core.po;
 
 import java.io.Serializable;
+
 /**
  * 用户持久化类
  */

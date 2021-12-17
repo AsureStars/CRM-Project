@@ -1,4 +1,5 @@
 package com.itheima.core.service.impl;
+
 /**
  * 用户Service接口实现类
  */
@@ -12,6 +13,7 @@ import java.beans.Transient;
 
 //@Service("userService")
 //@Transientional;
+
 public class UserServiceImpl implements UserService {
     //注入USerDao
    // @Autowired
